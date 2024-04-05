@@ -1,4 +1,4 @@
-# Hi there I'm Ty 👋
+### Hi there I'm Ty 👋
 
 I enjoy making cool stuff to learn new concepts through code.
 
